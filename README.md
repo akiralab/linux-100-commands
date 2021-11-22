@@ -9,7 +9,41 @@ linux コマンド 100 本ノック!!
 
 ## 100 のしたいこと
 
-- 順次追加予定
+### 追加済
+- ls
+- cd
+- pwd
+- chmod
+- grep
+
+### 追加中
+- ping
+- mkdir
+
+### 追加予定
+- cat
+- rsync
+- awk
+- tar
+- touch
+- echo
+- rm
+- mv
+- cp
+- stat
+- find
+- file
+- diff
+- head
+- less
+- more
+- sort
+- uniq
+- wc
+- alias
+- export
+- 
+
 
 ## 参考
 
