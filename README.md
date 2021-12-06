@@ -15,6 +15,7 @@ linux コマンド 100 本ノック!!
 - pwd
 - chmod
 - grep
+- touch
 
 ### 追加中
 - ping
@@ -25,7 +26,6 @@ linux コマンド 100 本ノック!!
 - rsync
 - awk
 - tar
-- touch
 - echo
 - rm
 - mv
