@@ -16,16 +16,18 @@ linux コマンド 100 本ノック!!
 - chmod
 - grep
 - touch
+- mkdir
+- ping
+- tar
+- du
+- nproc
 
 ### 追加中
-- ping
-- mkdir
 
 ### 追加予定
 - cat
 - rsync
 - awk
-- tar
 - echo
 - rm
 - mv
