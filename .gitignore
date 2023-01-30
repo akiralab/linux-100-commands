@@ -2,3 +2,7 @@ src/
 qdata/
 answer/
 .ipynb_checkpoints/
+
+_build/*
+_build/*/*
+_build/*/*/*

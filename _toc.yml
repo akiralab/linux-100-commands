@@ -2,11 +2,12 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: README
 parts:
     - caption: linuxの基本コマンド
       chapters:
-        sections:
+      - file: ipynb/intro.md
+        sections:      
         - file: ipynb/01_ls
         - file: ipynb/02_cd
         - file: ipynb/03_pwd
@@ -30,5 +31,4 @@ parts:
         - file: ipynb/21_trap
     - caption: Linuxコマンド実践編
       chapters:
-        sections:
         - file: combinations/calc.md
