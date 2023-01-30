@@ -1,0 +1,34 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+    - caption: linuxの基本コマンド
+      chapters:
+        sections:
+        - file: ipynb/01_ls
+        - file: ipynb/02_cd
+        - file: ipynb/03_pwd
+        - file: ipynb/04_chmod
+        - file: ipynb/05_ping
+        - file: ipynb/06_mkdir
+        - file: ipynb/07_grep
+        - file: ipynb/08_touch
+        - file: ipynb/09_nproc
+        - file: ipynb/10_tar
+        - file: ipynb/11_rsync
+        - file: ipynb/12_du
+        - file: ipynb/13_df
+        - file: ipynb/14_sleep
+        - file: ipynb/15_sed
+        - file: ipynb/16_seq
+        - file: ipynb/17_xargs
+        - file: ipynb/18_grep
+        - file: ipynb/19_awk
+        - file: ipynb/20_ping
+        - file: ipynb/21_trap
+    - caption: Linuxコマンド実践編
+      chapters:
+        sections:
+        - file: combinations/calc.md
