@@ -9,7 +9,7 @@ linux コマンド 100 本ノック!!
 
 ## Deploy
 
-- ()[]
+- [Linux 100 Commands!](https://akiralab.github.io/linux-100-commands)
 
 ### 追加済
 - ls
